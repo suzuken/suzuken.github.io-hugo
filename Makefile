@@ -1,5 +1,6 @@
 THEME:=herring-cove
 USER:=suzuken
+MSG="rebuilding site $(shell date)"
 
 install:
 	go get -v github.com/spf13/hugo
@@ -24,4 +25,4 @@ build:
 deploy:
 	@echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 	hugo --theme=$(THEME)
-	cd public && git add -A
+	cd public; git add -A; git commit -m $(MSG); git push origin master

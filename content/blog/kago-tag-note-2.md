@@ -1,7 +1,7 @@
 +++
 date = "2015-09-12T11:12:55+09:00"
 publishdate = "2015-09-12T11:12:55+09:00"
-draft = true
+draft = false
 title = "来週鹿児島で Kago-tag note #2 に出演します。"
 categories = [ "music" ]
 tags = [ "liberte", "concert" ]

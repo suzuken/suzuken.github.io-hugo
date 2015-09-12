@@ -1,15 +1,20 @@
 +++
 date = "2015-09-12T11:12:55+09:00"
+publishdate = "2015-09-12T11:12:55+09:00"
 draft = true
-title = "Kago-tag note #2 に出演します。"
+title = "来週鹿児島で Kago-tag note #2 に出演します。"
 categories = [ "music" ]
 tags = [ "liberte", "concert" ]
+
+images = [ "/img/kago_tag_note_2.jpg" ]
 
 +++
 
 リベルテマンドリンオーケストラが鹿児島で演奏します。以前から委嘱作品を書いて頂いている田口さんの地元、鹿児島にて演奏会を行います。
 
 プログラムは以下のとおりです。
+
+![](/img/kago_tag_note_2.jpg)
 
 ```
 Kago-tag note #2

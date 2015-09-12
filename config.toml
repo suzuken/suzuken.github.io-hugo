@@ -11,6 +11,15 @@ Copyright = "Kenta Suzuki"
 Home = "/"
 About = "/about/"
 
+[params.social]
+github      = "suzuken"
+facebook        = "suzuken326"
+# facebook_admin  = "17807199"
+twitter     = "suzu_v"
+pinterest       = "suzuken"
+instagram       = "suzuken"
+youtube         = "suzuken"
+
 [taxonoies]
 tag = "tags"
 category = "categories"

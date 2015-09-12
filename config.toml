@@ -1,0 +1,15 @@
+baseurl = "http://kentasuzuki.net"
+languageCode = "ja"
+title = "kentasuzuki.net"
+Description = "test"
+
+[params]
+ProfilePicture = "https://avatars2.githubusercontent.com/u/491428?v=3&s=460"
+AuthorName = "Kenta Suzuki"
+Description = "Web site of Kenta Suzuki"
+Copyright = "Kenta Suzuki"
+
+[params.links]
+Home = "/"
+Blog = "/blog/"
+About = "/about/"

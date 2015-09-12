@@ -9,5 +9,8 @@ Copyright = "Kenta Suzuki"
 
 [params.links]
 Home = "/"
-Blog = "/blog/"
 About = "/about/"
+
+[taxonoies]
+tag = "tags"
+category = "categories"

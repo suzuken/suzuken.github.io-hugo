@@ -1,11 +1,15 @@
 baseurl = "http://kentasuzuki.net"
 languageCode = "ja"
+title = "kentasuzuki.net"
 
 [params]
-ProfilePicture = "https://avatars2.githubusercontent.com/u/491428?v=3&s=460"
+ProfilePicture = "https://instagram.com/p/1ouXT1r_Jk/media/?size=m"
 AuthorName = "Kenta Suzuki"
 Description = "Web site of Kenta Suzuki"
 Copyright = "Kenta Suzuki"
+
+[params.index]
+TopPicture = "img/top.jpg"
 
 [params.links]
 Home = "/"

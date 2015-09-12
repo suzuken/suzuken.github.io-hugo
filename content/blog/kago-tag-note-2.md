@@ -10,11 +10,11 @@ images = [ "/img/kago_tag_note_2.jpg" ]
 
 +++
 
-リベルテマンドリンオーケストラが鹿児島で演奏します。以前から委嘱作品を書いて頂いている田口さんの地元、鹿児島にて演奏会を行います。
+[リベルテマンドリンオーケストラ](http://www.liberte-mandolin.com/) が鹿児島で演奏します。以前から委嘱作品を書いて頂いている田口さんの地元、鹿児島にて演奏会を行います。
 
 プログラムは以下のとおりです。
 
-![](/img/kago_tag_note_2.jpg)
+![kago tag note 2](/img/kago_tag_note_2.jpg)
 
 ```
 Kago-tag note #2

@@ -5,6 +5,14 @@ title = "About me"
 
 +++
 
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/65236601/m%3D900/91720da2a2feb3265e53df9cad96bf03' alt='Sakura brings early spring by Kenta Suzuki on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/65236601/sakura-brings-early-spring-by-kenta-suzuki' alt='Sakura brings early spring by Kenta Suzuki on 500px.com'></a>
+</div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
+
 # Kenta SUZUKI
 
 ## About me

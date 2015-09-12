@@ -4,7 +4,7 @@ MSG="rebuilding site $(shell date)"
 
 install:
 	go get -v github.com/spf13/hugo
-	mkdir -p themes && cd themes && git clone git@github.com:spf13/herring-cove.git
+	mkdir -p themes && cd themes && git clone git@github.com:suzuken/herring-cove.git
 
 init:
 	@echo "Initialize a public directory as GitHub Pages."

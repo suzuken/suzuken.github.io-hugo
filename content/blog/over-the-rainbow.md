@@ -5,6 +5,7 @@ title = "Over the Rainbow"
 
 categories = [ "music" ]
 videos = ["https://www.youtube.com/embed/JGCWsSJAvYo"]
+images = ["https://img.youtube.com/vi/JGCWsSJAvYo/0.jpg"]
 
 +++
 

@@ -2,6 +2,7 @@
 date = "2015-09-09T21:33:40+09:00"
 draft = false
 title = "About me"
+images = ["https://drscdn.500px.org/photo/65236601/m%3D900/91720da2a2feb3265e53df9cad96bf03"]
 
 +++
 

@@ -19,3 +19,10 @@ launches built-in server by Hugo. Open `http://127.0.0.1:1313` to check your con
 
 `make build` to build contents to `public`, and `make deploy` makes commit and git push to my own github pages. This method is based on [Hosting on GitHub Pages](http://gohugo.io/tutorials/github-pages-blog/).
 
+## LICENSE
+
+MIT
+
+## Author
+
+Kenta Suzuki (a.k.a. suzuken)

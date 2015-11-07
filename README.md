@@ -2,6 +2,10 @@
 
 This repository is a generator for suzuken.github.io using [Hugo](https://gohugo.io).
 
+## Installation
+
+	make install
+
 ## Development
 
     make server

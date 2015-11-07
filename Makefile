@@ -5,9 +5,6 @@ MSG="rebuilding site $(shell date)"
 install:
 	go get -v github.com/spf13/hugo
 	mkdir -p themes && cd themes && git clone https://github.com/suzuken/herring-cove.git
-
-init:
-	@echo "Initialize a public directory as GitHub Pages."
 	git submodule add https://github.com/$(USER)/$(USER).github.io.git public
 
 status:

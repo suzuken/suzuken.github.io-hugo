@@ -1,3 +1,3 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:suzuken/suzuken.github.io.git
+	url = https://github.com/suzuken/suzuken.github.io.git

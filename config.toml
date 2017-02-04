@@ -1,29 +1,12 @@
 # Site settings
-baseurl = "http://kentasuzuki.net"
+baseurl = "https://kentasuzuki.net"
 languageCode = "ja-JP"
 title = "kentasuzuki.net"
 theme = "hugo-artists-theme"
 
 [params]
-
-	# You can use Markdown syntax for urls [text](//url.to/source) for
-	# most longer texts.
-
-    # information about you and your website.
 	name = "Kenta Suzuki"
 	description = "Your description"
-
-	# Since this template is static, the contact form uses www.formspree.io as a
-	# proxy. The form makes a POST request to their servers to send the actual
-	# email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
 	email = "suzuken326@gmail.com"
 
 	# Header an navigation
@@ -41,6 +24,74 @@ theme = "hugo-artists-theme"
 	[params.about]
 		title = "About me"
 		bio = "北海道十勝出身、東京在住のソフトウェアエンジニアです。平日の朝夜と土日はクラシックギターを弾いています。プログラミングと音楽とビールが好きです。"
+        long = """
+## 読み物
+
+ブログを書いたり本を書いたりしています。
+
+* 技術的な話はこちら: [すずけんメモ](http://suzuken.hatenablog.jp)
+* 音楽やエッセイ的なものはこちら: [Source](http://blog.kentasuzuki.net)
+
+## エンジニアリングについて
+
+プログラミングを始めたのは大学に入ってからです。アルバイトをしたり、研究をしながら学びました。2011年2月ごろから[trippiece](http://trippiece.com/)の立ち上げをやっていました。その頃の様子は以下の記事などをみると伝わるかと思います。
+
+* [Source: Trippieceプレリリースと、反省と。](http://blog.kentasuzuki.net/2011/05/trippiece.html)
+* [Source: trippiece α リリース、または、シードベンチャーでのエンジニアリングについて](http://blog.kentasuzuki.net/2011/08/trippiece.html)
+* [Source: デザインから逃げない](http://blog.kentasuzuki.net/2011/09/blog-post.html)
+* [Source: 卒業と退職](http://blog.kentasuzuki.net/2012/04/blog-post.html)
+* [[連載：NEOジェネ！] 旅のソーシャルWeb『trippiece』が4度目の改変で気付いた「最強チームのつくり方」 - エンジニアtype](http://engineer.typemag.jp/article/trippiece)
+
+慶應義塾大学理工学研究科の山口研究室でセマンティックWebに関わる研究をしていました。内容は会計のデータをどのようにオントロジーとして表現し、共有するか、ということです。データのモデリングからシステムの設計構築までを担当しました。
+
+* JSAI2012の資料: [大規模会計 Linked Data のためのシステムアーキテクチャ](https://kaigi.org/jsai/webprogram/2012/pdf/479.pdf)
+
+2012年からは [株式会社VOYAGE GROUP](http://voyagegroup.com/) でアドテクノロジー領域の開発に携わっています。広告データの解析基盤の構築や、ターゲティングの仕組みの開発、及び広告配信に関わる領域についての開発をしています。それに付随して、開発環境の整備や、サーバの管理などについても担当することもあります。
+
+* アドテクノロジー領域、とくにDMPと言われている領域について2013年に説明した資料です: [Head First Ad Technology and DMP](http://www.slideshare.net/suzuken/head-first-ad-technology-and-dmp)
+* 解析環境の整備をしていた2012年夏ごろの資料です: [Jenkinsとhadoopを利用した継続的データ解析環境の構築](http://www.slideshare.net/suzuken/jenkinshadoop)
+* AWSを利用したデータ解析基盤の構築について発表した資料です。2014年ごろの構成にもとづいています。: [Data Stream Processing and Analysis on AWS #awscasual](http://www.slideshare.net/suzuken/data-stream-processing-and-analysis-on-aws-awscasual)
+* JAWS DAYS 2015でデータエンジニアリングについて発表した時の資料です。: [Data Engineering at VOYAGE GROUP #jawsdays](http://www.slideshare.net/suzuken/data-engineering-atvoyagegroupjawsdays2015)
+* 2016年4月、[http2study](https://http2study.connpass.com/event/29813/)で [ディスプレイ広告の基礎とセキュリティ](https://speakerdeck.com/suzuken/deisupureiguang-gao-falseji-chu-tosekiyuritei) について話しました。
+* 2016年6月、AWS Summit Tokyo Developer Conferenceで「サーバレスの波はホンモノか？」のパネルディスカッションに登壇しました。 [http://suzuken.hatenablog.jp/entry/2016/06/02/184723](http://suzuken.hatenablog.jp/entry/2016/06/02/184723)
+* 他の発表資料はここで見ることができます: [SlideShare](http://www.slideshare.net/suzuken) [Speaker Deck](https://speakerdeck.com/suzuken)
+
+また、2014年にはログ解析に関する本を書きました。私の章ではなぜログ解析を行う必要があるのか。そしてどのような選択肢があり、どのように方法を選択していけばよいのか、という観点から書いています。
+
+* [サーバ/インフラエンジニア養成読本 ログ収集~可視化編 を書きました - すずけんメモ](http://suzuken.hatenablog.jp/entry/2014/07/18/084555)
+* 出版イベントでの導入資料です。: [サービス改善はログデータ分析から](http://www.slideshare.net/suzuken/ss-38865046)
+
+2015年からは何かあればだいたいGoで書くようになりました。その流れで2016年9月に「みんなのGo言語」という本を出しました。私はテストに関する章を書きました。
+
+* [みんなのGo言語](http://gihyo.jp/book/2016/978-4-7741-8392-3)
+* [「みんなのGo言語」の執筆に参加しました](http://suzuken.hatenablog.jp/entry/2016/08/08/132303)
+
+2016年にエンジニアリングについてインタビューを受けました。
+
+* [スタートアップでのCTO経験で学んだ、エンジニアに必要な「経営的視点」－fluct 鈴木健太（suzuken）氏](http://press.forkwell.com/post/149349743522/interview-suzuken)
+
+## 演奏活動について
+
+高校1年のころからアコースティックギターを弾き始めました。当時は弾き語りをしようと思っていたのですが、押尾コータローさんのギターを聴いてソロギターを弾きたくなり、それ以来ずっとソロギターを中心に弾いています。
+
+大学在学中は[慶應義塾マンドリンクラブ](http://www.keiomandolin.net/)でクラシックギターを弾き始めました。100人ほどのオーケストラにギターのパートがあり、そこで演奏するということをしてしました。
+
+現在は[リベルテマンドリンオーケストラ](http://www.liberte-mandolin.com/)とプレクトラムソサイエティという団体でクラシックギターを弾いています。リベルテマンドリンオーケストラでは2010年ごろから首席奏者をつとめています。ギターは2010年ごろから [尾尻雅弘](http://www.ojiri.com/index.html) さんに師事しています。
+
+主にソロでの演奏の様子は [Kenta Suzuki - YouTube](https://www.youtube.com/user/suzukenjp) でもご覧いただけます。
+
+リベルテマンドリンオーケストラでの演奏は [LiberteMandolinJP - YouTube](https://www.youtube.com/channel/UCfklI6Nv9phjHkWVkrWROYA) でご覧いただけます。
+
+2011年ごろにはMandolinspritsの録音にも参加しました。
+
+* [Source: Mandolinspiritsリリースとインストアライブのお知らせ](http://blog.kentasuzuki.net/2011/07/mandolinspirits.html)
+
+2013年にはEuphoriaの録音に参加しました。
+
+* [Mandolin Ensemble EUPHORIA](http://www.euphoria.tokyo.jp/)
+* [イケガク / CD マンドリンアンサンブルEUPHORIA 「EUPHORIA」](http://www.ikegaku.co.jp/shopping/products/detail.php?product_id=622)
+
+"""
 
 		[[params.about.skills]]
 			name = "Go"
@@ -52,16 +103,15 @@ theme = "hugo-artists-theme"
 
 		[[params.about.skills]]
 			name = "Guitar"
-			value = 3
+			value = 4
 
 		[[params.about.skills]]
 			name = "Eating"
-			value = 10
-
+			value = 9
 
 	# Contact secion
 	[params.contact]
-		title = "Contact"
+		title = "執筆、講演、演奏などの依頼からご飯のお誘いまで、ご連絡は以下からどうぞ。"
 
 		# The following social network icons are available:
 		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
@@ -77,15 +127,6 @@ theme = "hugo-artists-theme"
 		[[params.contact.social]]
 			icon = "youtube"
 			link = "//www.youtube.com/kentasuzukinet"
-
-	[params.form]
-		title = "講演や執筆の依頼などは以下からどうぞ"
-		# Form fields
-		name = "お名前"
-		email = "メールアドレス"
-		message = "ご用件をどうぞ"
-		buttonText = "送信する"
-
 
 	[params.footer]
 		copyright = "Published under the Unlicense License."

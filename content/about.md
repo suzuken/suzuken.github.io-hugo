@@ -85,14 +85,6 @@ images = ["https://drscdn.500px.org/photo/65236601/m%3D900/91720da2a2feb3265e53d
 * [Mandolin Ensemble EUPHORIA](http://www.euphoria.tokyo.jp/)
 * [イケガク / CD マンドリンアンサンブルEUPHORIA 「EUPHORIA」](http://www.ikegaku.co.jp/shopping/products/detail.php?product_id=622)
 
-## 連絡先
-
-講演や取材の依頼からご飯のお誘いまで、お気軽にどうぞ。
-
-* suzuken326 _at_ Gメール.com
-* twitter: [@suzu_v](https://twitter.com/suzu_v)
-* GitHub: [suzuken](https://github.com/suzuken)
-
 ## 近況
 
 <a class="twitter-timeline"  href="https://twitter.com/suzu_v" data-widget-id="642582235833434112">Tweets by @suzu_v</a>

@@ -1,4 +1,5 @@
-THEME:=herring-cove
+# THEME:=herring-cove
+THEME:=hugo-artists-theme
 USER:=suzuken
 MSG="rebuilding site $(shell date)"
 

@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://kentasuzuki.net"
+baseurl = "https://kentasuzuki.net/"
 languageCode = "ja-JP"
 title = "kentasuzuki.net"
 theme = "hugo-artists-theme"

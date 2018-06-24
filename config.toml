@@ -7,7 +7,7 @@ theme = "hugo-artists-theme"
 [params]
 	name = "Kenta Suzuki"
 	description = "Your description"
-	email = "suzuken326@gmail.com"
+	email = ""
 
 	# Header an navigation
 	#
@@ -110,22 +110,6 @@ JSAI2012の資料: [大規模会計 Linked Data のためのシステムアー�
 * [イケガク / CD マンドリンアンサンブルEUPHORIA 「EUPHORIA」](http://www.ikegaku.co.jp/shopping/products/detail.php?product_id=622)
 
 """
-
-		[[params.about.skills]]
-			name = "Go"
-			value = 8
-
-		[[params.about.skills]]
-			name = "PHP"
-			value = 8
-
-		[[params.about.skills]]
-			name = "Guitar"
-			value = 4
-
-		[[params.about.skills]]
-			name = "Eating"
-			value = 9
 
 	# Contact secion
 	[params.contact]

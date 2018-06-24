@@ -113,8 +113,6 @@ JSAI2012の資料: [大規模会計 Linked Data のためのシステムアー�
 
 	# Contact secion
 	[params.contact]
-		title = "執筆、講演、演奏などの依頼からご飯のお誘いまで、ご連絡は以下からどうぞ。"
-
 		# The following social network icons are available:
 		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
 		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

@@ -31,7 +31,7 @@ theme = "hugo-artists-theme"
 
 * 技術的な話はこちら: [すずけんメモ](http://suzuken.hatenablog.jp)
 * 音楽やエッセイ的なものはこちら: [Source](http://blog.kentasuzuki.net)
-* [ajitofm](https://ajito.fm/) というポッドキャストをやっています。 [iOS](https://itunes.apple.com/jp/podcast/ajitofm/id1257346086?l=ja) / [Android](https://www.subscribeonandroid.com/ajito.fm/index.xml)
+* [ajitofm](https://ajito.fm/) という技術系の話題に特化したポッドキャストをやっています。 [iOS](https://itunes.apple.com/jp/podcast/ajitofm/id1257346086?l=ja) / [Android](https://www.subscribeonandroid.com/ajito.fm/index.xml)
 
 ## エンジニアリングについて
 
@@ -53,7 +53,7 @@ theme = "hugo-artists-theme"
 * [Source: 卒業と退職](http://blog.kentasuzuki.net/2012/04/blog-post.html)
 * [[連載：NEOジェネ！] 旅のソーシャルWeb『trippiece』が4度目の改変で気付いた「最強チームのつくり方」 - エンジニアtype](http://engineer.typemag.jp/article/trippiece)
 
-慶應義塾大学理工学研究科の山口研究室でセマンティックWebに関わる研究をしていました。内容は会計のデータをどのようにオントロジーとして表現し、共有するか、ということです。データのモデリングからシステムの設計構築までを担当しました。
+[慶應義塾大学理工学研究科の山口研究室](http://www.yamaguti.comp.ae.keio.ac.jp)でセマンティックWebに関わる研究をしていました。内容は会計のデータをどのようにオントロジーとして表現し、共有するか、ということです。データのモデリングからシステムの設計構築までを担当しました。
 
 JSAI2012の資料: [大規模会計 Linked Data のためのシステムアーキテクチャ](https://kaigi.org/jsai/webprogram/2012/pdf/479.pdf)
 
@@ -65,6 +65,8 @@ JSAI2012の資料: [大規模会計 Linked Data のためのシステムアー�
 * 出版イベントでの導入資料です。: [サービス改善はログデータ分析から](http://www.slideshare.net/suzuken/ss-38865046)
 * 2017年9月に [データ分析基盤構築入門 (Fluentd，Elasticsearch，Kibanaによるログ収集と可視化)](http://gihyo.jp/book/2017/978-4-7741-9218-5) として再構成し、出版しました。
 
+2014年からVOYAGE GROUPのソフトウェアエンジニア学生向けインターンTreasureの講師も務めています。2016年からはGoに関する講義とインターン全体の技術領域におけるプランニングをしています。
+
 2015年からは何かあればだいたいGoで書くようになりました。その流れで2016年9月に「みんなのGo言語」という本を出しました。私はテストに関する章を書きました。
 
 * [みんなのGo言語](http://gihyo.jp/book/2016/978-4-7741-8392-3)
@@ -74,40 +76,21 @@ JSAI2012の資料: [大規模会計 Linked Data のためのシステムアー�
 
 * [スタートアップでのCTO経験で学んだ、エンジニアに必要な「経営的視点」－fluct 鈴木健太（suzuken）氏](http://press.forkwell.com/post/149349743522/interview-suzuken)
 
-## 発表資料
+## 発表資料 / 動画
 
-* アドテクノロジー領域、とくにDMPと言われている領域について2013年に説明した資料です: [Head First Ad Technology and DMP](http://www.slideshare.net/suzuken/head-first-ad-technology-and-dmp)
-* 解析環境の整備をしていた2012年夏ごろの資料です: [Jenkinsとhadoopを利用した継続的データ解析環境の構築](http://www.slideshare.net/suzuken/jenkinshadoop)
-* AWSを利用したデータ解析基盤の構築について発表した資料です。2014年ごろの構成にもとづいています。: [Data Stream Processing and Analysis on AWS #awscasual](http://www.slideshare.net/suzuken/data-stream-processing-and-analysis-on-aws-awscasual)
-* JAWS DAYS 2015でデータエンジニアリングについて発表した時の資料です。: [Data Engineering at VOYAGE GROUP #jawsdays](http://www.slideshare.net/suzuken/data-engineering-atvoyagegroupjawsdays2015)
+* 2012年夏、解析環境の整備をしていたころの資料です: [Jenkinsとhadoopを利用した継続的データ解析環境の構築](http://www.slideshare.net/suzuken/jenkinshadoop)
+* 2013年、アドテクノロジー領域、とくにDMPと言われている領域について説明した資料です: [Head First Ad Technology and DMP](http://www.slideshare.net/suzuken/head-first-ad-technology-and-dmp)
+* 2014年、AWSを利用したデータ解析基盤の構築について発表した資料です。: [Data Stream Processing and Analysis on AWS #awscasual](http://www.slideshare.net/suzuken/data-stream-processing-and-analysis-on-aws-awscasual)
+* 2015年春、JAWS DAYS 2015でデータエンジニアリングについて発表した時の資料です。: [Data Engineering at VOYAGE GROUP #jawsdays](http://www.slideshare.net/suzuken/data-engineering-atvoyagegroupjawsdays2015)
 * 2016年4月、[http2study](https://http2study.connpass.com/event/29813/)で [ディスプレイ広告の基礎とセキュリティ](https://speakerdeck.com/suzuken/deisupureiguang-gao-falseji-chu-tosekiyuritei) について話しました。
 * 2016年6月、AWS Summit Tokyo Developer Conferenceで「サーバレスの波はホンモノか？」のパネルディスカッションに登壇しました。 [http://suzuken.hatenablog.jp/entry/2016/06/02/184723](http://suzuken.hatenablog.jp/entry/2016/06/02/184723)
+* 2017年8月、エンジニア学生向けインターンTreasureでのGo言語入門資料です。 [Go入門](https://go-talks.appspot.com/github.com/voyagegroup/talks/2017/treasure-go/intro.slide#1) 紹介記事: [Treasure 2017 の研修資料は Go を学ぶのに最高だった - kakakakakku blog](https://kakakakakku.hatenablog.com/entry/2017/10/16/081755)
 * 2017年10月、PHPカンファレンス2017で [
 広告配信管理システムを支えるPHP - レガシーシステムからの段階的移行戦略](https://speakerdeck.com/suzuken/phpcon2017) というテーマで発表しました。
 * 2018年4月、ITP Studyで[ディスプレイ広告とITP](https://go-talks.appspot.com/github.com/suzuken/talks/2018-itpstudy/itp.slide#1)について話しました。
+* 2019年1月、[次世代 Web カンファレンス - connpass](https://nextwebconf.connpass.com/event/103056/)のAdセッションでオーナーをしました。ITP, GDPR, セキュリティをはじめ、広告に関連する様々なトピックについて80分議論しています。 [動画: Ad - 次世代Webカンファレンス #nwc_ad - YouTube](https://www.youtube.com/watch?v=CBBh_qRYRcE&t=3s)
 
-他の発表資料はSlideShareやSpeckerDeckでも見ることができます: [SlideShare](http://www.slideshare.net/suzuken) [Speaker Deck](https://speakerdeck.com/suzuken) [suzuken/talks](https://github.com/suzuken/talks)
-
-## 演奏活動について
-
-高校1年のころからアコースティックギターを弾き始めました。当時は弾き語りをしようと思っていたのですが、押尾コータローさんのギターを聴いてソロギターを弾きたくなり、それ以来ずっとソロギターを中心に弾いています。
-
-大学在学中は[慶應義塾マンドリンクラブ](http://www.keiomandolin.net/)でクラシックギターを弾き始めました。100人ほどのオーケストラにギターのパートがあり、そこで演奏するということをしてしました。
-
-現在は[リベルテマンドリンオーケストラ](http://www.liberte-mandolin.com/)とプレクトラムソサイエティという団体でクラシックギターを弾いています。リベルテマンドリンオーケストラでは2010年ごろから首席奏者をつとめています。ギターは2010年ごろから [尾尻雅弘](http://www.ojiri.com/index.html) さんに師事しています。
-
-主にソロでの演奏の様子は [Kenta Suzuki - YouTube](https://www.youtube.com/user/suzukenjp) でもご覧いただけます。
-
-リベルテマンドリンオーケストラでの演奏は [LiberteMandolinJP - YouTube](https://www.youtube.com/channel/UCfklI6Nv9phjHkWVkrWROYA) でご覧いただけます。
-
-2011年ごろにはMandolinspritsの録音にも参加しました。
-
-* [Source: Mandolinspiritsリリースとインストアライブのお知らせ](http://blog.kentasuzuki.net/2011/07/mandolinspirits.html)
-
-2013年にはEuphoriaの録音に参加しました。
-
-* [Mandolin Ensemble EUPHORIA](http://www.euphoria.tokyo.jp/)
-* [イケガク / CD マンドリンアンサンブルEUPHORIA 「EUPHORIA」](http://www.ikegaku.co.jp/shopping/products/detail.php?product_id=622)
+他の発表資料はSlideShareやSpeckerDeckでも見ることができます: [SlideShare](http://www.slideshare.net/suzuken) / [Speaker Deck](https://speakerdeck.com/suzuken) / [suzuken/talks](https://github.com/suzuken/talks)
 
 """
 

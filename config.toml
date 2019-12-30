@@ -30,7 +30,7 @@ theme = "hugo-artists-theme"
 ブログや本を書いたりポッドキャストで話したりしています。
 
 * 技術的な話はこちら: [すずけんメモ](http://suzuken.hatenablog.jp)
-* 音楽やエッセイ的なものはこちら: [Source](http://blog.kentasuzuki.net)
+* エッセイ的なものはこちら: [Source](http://blog.kentasuzuki.net)
 * [ajitofm](https://ajito.fm/) という技術系の話題に特化したポッドキャストをやっています。 [iOS](https://itunes.apple.com/jp/podcast/ajitofm/id1257346086?l=ja) / [Android](https://www.subscribeonandroid.com/ajito.fm/index.xml)
 
 ## エンジニアリングについて
@@ -76,6 +76,10 @@ JSAI2012の資料: [大規模会計 Linked Data のためのシステムアー�
 
 * [スタートアップでのCTO経験で学んだ、エンジニアに必要な「経営的視点」－fluct 鈴木健太（suzuken）氏](http://press.forkwell.com/post/149349743522/interview-suzuken)
 
+2019年にVOYAGE GROUPのFOCUSでインタビューを受けました。
+
+* [fluctのCTOが考える、楽しく仕事をするために必要な3つの“モノ”とは | FOCUS](https://focus.voyagegroup.com/post-0016/)
+
 ## 発表資料 / 動画
 
 * 2012年夏、解析環境の整備をしていたころの資料です: [Jenkinsとhadoopを利用した継続的データ解析環境の構築](http://www.slideshare.net/suzuken/jenkinshadoop)
@@ -85,10 +89,10 @@ JSAI2012の資料: [大規模会計 Linked Data のためのシステムアー�
 * 2016年4月、[http2study](https://http2study.connpass.com/event/29813/)で [ディスプレイ広告の基礎とセキュリティ](https://speakerdeck.com/suzuken/deisupureiguang-gao-falseji-chu-tosekiyuritei) について話しました。
 * 2016年6月、AWS Summit Tokyo Developer Conferenceで「サーバレスの波はホンモノか？」のパネルディスカッションに登壇しました。 [http://suzuken.hatenablog.jp/entry/2016/06/02/184723](http://suzuken.hatenablog.jp/entry/2016/06/02/184723)
 * 2017年8月、エンジニア学生向けインターンTreasureでのGo言語入門資料です。 [Go入門](https://go-talks.appspot.com/github.com/voyagegroup/talks/2017/treasure-go/intro.slide#1) 紹介記事: [Treasure 2017 の研修資料は Go を学ぶのに最高だった - kakakakakku blog](https://kakakakakku.hatenablog.com/entry/2017/10/16/081755)
-* 2017年10月、PHPカンファレンス2017で [
-広告配信管理システムを支えるPHP - レガシーシステムからの段階的移行戦略](https://speakerdeck.com/suzuken/phpcon2017) というテーマで発表しました。
+* 2017年10月、PHPカンファレンス2017で [広告配信管理システムを支えるPHP - レガシーシステムからの段階的移行戦略](https://speakerdeck.com/suzuken/phpcon2017) というテーマで発表しました。
 * 2018年4月、ITP Studyで[ディスプレイ広告とITP](https://go-talks.appspot.com/github.com/suzuken/talks/2018-itpstudy/itp.slide#1)について話しました。
 * 2019年1月、[次世代 Web カンファレンス - connpass](https://nextwebconf.connpass.com/event/103056/)のAdセッションでオーナーをしました。ITP, GDPR, セキュリティをはじめ、広告に関連する様々なトピックについて80分議論しています。 [動画: Ad - 次世代Webカンファレンス #nwc_ad - YouTube](https://www.youtube.com/watch?v=CBBh_qRYRcE&t=3s)
+* 2019年10月、PHPカンファレンス沖縄で話しました。 [小さな機能、大きな仕事](https://speakerdeck.com/suzuken/phpcon-okinawa-2019)
 
 他の発表資料はSlideShareやSpeckerDeckでも見ることができます: [SlideShare](http://www.slideshare.net/suzuken) / [Speaker Deck](https://speakerdeck.com/suzuken) / [suzuken/talks](https://github.com/suzuken/talks)
 
